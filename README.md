@@ -11,4 +11,4 @@ int main()
     return 0;
 }
 ```
-Al inicio del main() para poder leer el archivo .in y generar su propio .out para que puedan comparar sus respuestas.
+Para poder leer el archivo .in y generar su propio .out para que puedan comparar sus respuestas.
